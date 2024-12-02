@@ -9,5 +9,9 @@
         <value>Metadata Change Alerts</value>
     </caseValues>
     <gender>Neuter</gender>
+    <quickActions>
+        <label><!-- Ignore Metadata Action --></label>
+        <name>Ignore_Metadata_Action</name>
+    </quickActions>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

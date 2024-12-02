@@ -4,5 +4,9 @@
         <plural>false</plural>
         <value>スナップショット差分</value>
     </caseValues>
+    <fieldSets>
+        <label><!-- Copado Header Fields --></label>
+        <name>copado__Copado_Header_Fields</name>
+    </fieldSets>
     <nameFieldLabel>スナップショット差分名</nameFieldLabel>
 </CustomObjectTranslation>

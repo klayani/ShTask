@@ -5,4 +5,8 @@
         <value>レコード・マッチング式</value>
     </caseValues>
     <nameFieldLabel>レコード・マッチング式名</nameFieldLabel>
+    <validationRules>
+        <errorMessage><!-- You can not change the Configuration Schema Credential once the value is selected. --></errorMessage>
+        <name>copado__RestrictSchemaCredentialModification</name>
+    </validationRules>
 </CustomObjectTranslation>

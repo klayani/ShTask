@@ -4,5 +4,9 @@
         <plural>false</plural>
         <value>プロモーションされたユーザーストーリー</value>
     </caseValues>
+    <fieldSets>
+        <label><!-- Promoted User Story Datatable --></label>
+        <name>copado__Promoted_User_Story_Datatable</name>
+    </fieldSets>
     <nameFieldLabel>プロモートされたユーザーストーリー名</nameFieldLabel>
 </CustomObjectTranslation>

@@ -4,5 +4,9 @@
         <plural>false</plural>
         <value>外部CIジョブ</value>
     </caseValues>
+    <fieldSets>
+        <label><!-- Related List Fields --></label>
+        <name>copado__relatedListFields</name>
+    </fieldSets>
     <nameFieldLabel>外部CIジョブ名</nameFieldLabel>
 </CustomObjectTranslation>

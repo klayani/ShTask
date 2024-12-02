@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>プルリクエストレビュー</value>
     </caseValues>
+    <layouts>
+        <layout>Pull Request Review Layout</layout>
+        <sections>
+            <label>URL +コメント</label>
+            <section>URLs + Comments</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>プルリクエストレビュー名</nameFieldLabel>
 </CustomObjectTranslation>

@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>デプロイメントタスク</value>
     </caseValues>
+    <layouts>
+        <layout>Deployment Task Layout</layout>
+        <sections>
+            <label>新セクション</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>デプロイメントタスク名</nameFieldLabel>
 </CustomObjectTranslation>

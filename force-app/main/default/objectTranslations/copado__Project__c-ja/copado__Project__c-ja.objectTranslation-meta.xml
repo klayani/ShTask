@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>プロジェクト</value>
     </caseValues>
+    <layouts>
+        <layout>Project Layout</layout>
+        <sections>
+            <label>プロジェクトの概要</label>
+            <section>Project Summary</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>プロジェクト名</nameFieldLabel>
 </CustomObjectTranslation>

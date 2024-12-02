@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>ユーザーストーリーコミット</value>
     </caseValues>
+    <layouts>
+        <layout>User Story Commit Layout</layout>
+        <sections>
+            <label>コミット情報</label>
+            <section>Commit Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>ユーザーストーリーコミット</nameFieldLabel>
 </CustomObjectTranslation>

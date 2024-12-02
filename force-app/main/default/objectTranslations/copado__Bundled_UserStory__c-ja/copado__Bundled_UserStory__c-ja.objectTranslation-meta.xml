@@ -4,5 +4,9 @@
         <plural>false</plural>
         <value><!-- Bundled User Story --></value>
     </caseValues>
+    <fieldSets>
+        <label><!-- Bundle --></label>
+        <name>copado__Bundle</name>
+    </fieldSets>
     <nameFieldLabel><!-- Bundled User Story Name --></nameFieldLabel>
 </CustomObjectTranslation>

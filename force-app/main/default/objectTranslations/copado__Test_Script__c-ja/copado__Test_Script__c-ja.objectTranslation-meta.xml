@@ -5,4 +5,8 @@
         <value>テストスクリプト</value>
     </caseValues>
     <nameFieldLabel>テストスクリプト名</nameFieldLabel>
+    <webLinks>
+        <label><!-- Add_Test_Script_Steps --></label>
+        <name>copado__Add_Test_Script_Steps</name>
+    </webLinks>
 </CustomObjectTranslation>

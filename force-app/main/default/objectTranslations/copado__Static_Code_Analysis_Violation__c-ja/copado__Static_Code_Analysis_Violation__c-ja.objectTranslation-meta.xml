@@ -5,4 +5,14 @@
         <value>静的コード分析違反</value>
     </caseValues>
     <nameFieldLabel>静的コード分析違反名</nameFieldLabel>
+    <recordTypes>
+        <description><!-- Record Type for CodeScan integration. Requires CodeScan licensing. --></description>
+        <label><!-- CodeScan --></label>
+        <name>copado__CodeScan</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for free of charge PMD integration --></description>
+        <label><!-- PMD --></label>
+        <name>copado__PMD</name>
+    </recordTypes>
 </CustomObjectTranslation>

@@ -4,4 +4,8 @@
         <plural>false</plural>
         <value><!-- Copado Smart Help --></value>
     </caseValues>
+    <validationRules>
+        <errorMessage><!-- Please enter Triggering Metadata Type to populate Triggering Metadata Items --></errorMessage>
+        <name>copado__Validate_triggering_metadata_type</name>
+    </validationRules>
 </CustomObjectTranslation>

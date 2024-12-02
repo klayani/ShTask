@@ -5,4 +5,8 @@
         <value>コンプライアンス ルール グループ 項目</value>
     </caseValues>
     <nameFieldLabel>コンプライアンスルールグループ 項目参照</nameFieldLabel>
+    <validationRules>
+        <errorMessage><!-- This compliance rule does not have any criteria. A compliance rule needs at least one valid criteria row in order to be added to a Compliance Rule Group. --></errorMessage>
+        <name>copado__RuleNeedsValidCriteriaToBeAddedToGroup</name>
+    </validationRules>
 </CustomObjectTranslation>

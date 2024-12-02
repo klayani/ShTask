@@ -9,5 +9,13 @@
         <value>Monitored Environments</value>
     </caseValues>
     <gender>Neuter</gender>
+    <quickActions>
+        <label><!-- Run Scan --></label>
+        <name>Run_Scan</name>
+    </quickActions>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please run a successful Manual Scan before adding to the monitoring schedule. --></errorMessage>
+        <name>Ensure_a_Successful_Manual_Run</name>
+    </validationRules>
 </CustomObjectTranslation>
